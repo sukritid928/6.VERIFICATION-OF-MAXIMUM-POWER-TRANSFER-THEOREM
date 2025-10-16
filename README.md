@@ -1,6 +1,6 @@
 # 6.VERIFICATION-OF-MAXIMUM-POWER-TRANSFER-THEOREM
-##NAME: SUKRITI D
-##REF.NO: 25018316
+## NAME: SUKRITI D
+## REF.NO: 25018316
 **AIM:**
 
 To measure the power absorbed in a load and to verify that the power absorbed in a load is maximum only when load resistance is equal to the source resistance.
